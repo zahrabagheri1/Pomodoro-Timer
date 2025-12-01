@@ -21,4 +21,4 @@ The project also includes a small persistent history system. After each complete
 - Basic input validation
 - Writing and running tests with pytest
 
-The Pomodoro Timer is simple to extend—features such as notifications, sound alerts, or customizable session lengths can easily be added.
+### The Pomodoro Timer is simple to extend—features such as notifications, sound alerts, or customizable session lengths can easily be added.
