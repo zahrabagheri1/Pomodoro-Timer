@@ -14,11 +14,11 @@ Users can choose how many Pomodoro cycles they want to complete, and the program
 
 The project also includes a small persistent history system. After each completed session, the result is saved into a JSON file so users can track their progress across different days. Unit tests (via pytest) verify the correctness of key functions such as time calculations, cycle generation, and history saving.
 
-## This project demonstrates the use of:
+### This project demonstrates the use of:
 - Functions and modular design
 - Loops and timer countdown logic
 - File handling with JSON
 - Basic input validation
 - Writing and running tests with pytest
 
-### The Pomodoro Timer is simple to extend—features such as notifications, sound alerts, or customizable session lengths can easily be added.
+#### The Pomodoro Timer is simple to extend—features such as notifications, sound alerts, or customizable session lengths can easily be added.
